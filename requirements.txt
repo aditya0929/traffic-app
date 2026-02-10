@@ -1,0 +1,6 @@
+inference-sdk
+opencv-python-headless
+Pillow
+streamlit
+numpy
+pandas
